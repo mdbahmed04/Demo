@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void main(){
-  printf("Hello");
+  printf("Replaced Hello by main");
   printf("How are you");
   printf("I am fine.");
 }
